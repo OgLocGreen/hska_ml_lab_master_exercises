@@ -1,4 +1,4 @@
-# ML Lab Hska Master Exercises
+# Hska ML Lab Master Exercises
 
 Overview: <br> <br>
 Exercise 1 - Python for Machine Learning <br>
